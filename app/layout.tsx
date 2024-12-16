@@ -8,8 +8,7 @@ const merriweather = Merriweather({
 });
 
 export const metadata = {
-  title: "Akbar & Retha - Wedding Invitation",
-  description: "Undangan Pernikahan Akbar & Retha",
+  title: "Vijaya & Rajesh - 25TH Wedding Anniversary Invitation",
 };
 
 export default function RootLayout({

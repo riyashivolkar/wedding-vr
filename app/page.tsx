@@ -28,8 +28,8 @@ export default function Home() {
       <ArRum />
       <Profile />
       <WeddingEvents />
-      <Reservation />
-      <Gallery />
+      {/* <Reservation /> */}
+      {/* <Gallery /> */}
       <Footer />
     </main>
   );
