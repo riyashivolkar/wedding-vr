@@ -14,8 +14,9 @@ function Profile() {
             On this special occasion,
             we invite you to celebrate with us the journey of love,
             shared responsibilities, and fulfilled vows
-            that have shaped our beautiful life together.
-            Join us as we mark this milestone with gratitude and joy.
+
+            Join us as we mark this milestone with gratitude and joy.<span className="italic "> ~ hosted by Riya & Riddhi</span>
+
           </p>
         </RevealWrapper>
         <div className="grid grid-cols-2 mt-20">

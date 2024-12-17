@@ -10,7 +10,13 @@ function Footer() {
           <div className="relative z-10 flex flex-col items-center gap-4 p-6 text-center text-white">
             <RevealWrapper duration={1500} origin="top">
               <p className="text-[0.75rem] font-light leading-relaxed">
-                Thank you for your presence and prayers. Your warm wishes and heartfelt prayers have added immeasurable joy and strength to our lives.
+                Thank you for your presence and prayers. We kindly request no bouquets or presents, please.
+
+
+
+
+
+
               </p>
             </RevealWrapper>
             <RevealWrapper duration={1500} origin="top">
